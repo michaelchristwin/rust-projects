@@ -95,4 +95,5 @@ fn main() {
     for v in out {
         println!("{} is open", v);
     }
+    println!("Oh My God!!")
 }
